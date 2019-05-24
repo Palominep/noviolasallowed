@@ -1,0 +1,88 @@
+<div class="row">
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" href="https://www.musictheory.net/lessons/10" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="http://www.psicologiaimpulsarte.es/wp-content/uploads/2018/02/Musictheornet.png" alt="musictheory.net">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Music Theory</h4>
+              <p class="text-muted">Introductory and intermediate music theory lessons, exercises, ear trainers, and calculators</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" href="https://www.lightnote.co/" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://static.maqtoob.com/108/985_1fb5f_814c309feskiovdu8104198k6p3aoldum76kg2uo7fwzrvv9wz_1000x600_1.jpeg" alt="lightnote.co">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Lightnote</h4>
+              <p class="text-muted">Interactive music theory lessons</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" href="https://electricfiddler.com/violin-tuning/" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://electricfiddler.com/wp-content/uploads/2018/05/violin-tuning-tactics.jpg" alt="electricfiddler.com">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Electricfiddler</h4>
+              <p class="text-muted">Don't be fooled, this site provides news and a number of articles discussing sound, effects, and techniques for the violin and viola!</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" href="https://www.youtube.com/channel/UCNBiLBQrKrnvwcVRD5fS8aA" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://yt3.ggpht.com/a-/AAuE7mDNikSs5m8pwj0qvks10RFcrg4EV56dddvsSQ=s900-mo-c-c0xffffffff-rj-k-no" alt="youtube.com">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Youtuber Michael News</h4>
+              <p class="text-muted">More music theory lessons, why not</p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" href="https://www.brainpop.com" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://ph3kb4dyoeq41h5262h06b6n-wpengine.netdna-ssl.com/wp-content/themes/about-brainpop/upload/hero-jobs.jpg" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>BrainPop</h4>
+              <p class="text-muted">Here are Some Funny but Educational Videos </p>
+            </div>
+          </div>
+          <div class="col-md-4 col-sm-6 portfolio-item">
+            <a class="portfolio-link" href="https://www.ted.com/talks/" target="_blank">
+              <div class="portfolio-hover">
+                <div class="portfolio-hover-content">
+                  <i class="fas fa-plus fa-3x"></i>
+                </div>
+              </div>
+              <img class="img-fluid" src="https://pi.tedcdn.com/r/talkstar-assets.s3.amazonaws.com/production/playlists/playlist_125/03319a10-ba41-4f78-9d21-0c0233c59658/TED-Talks-Education_1200x627.jpg?quality=89&w=800" alt="">
+            </a>
+            <div class="portfolio-caption">
+              <h4>Ted Talks</h4>
+              <p class="text-muted">Can't get Enough Videos... So Here are Some More</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
