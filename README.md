@@ -1,2 +1,0 @@
-# noviolasallowed
-my personal website
